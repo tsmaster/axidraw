@@ -40,8 +40,8 @@ F_DEFAULT_SPEED = 25
 N_PEN_DOWN_DELAY = 400    # delay (ms) for the pen to go down before the next move
 N_PEN_UP_DELAY = 400      # delay (ms) for the pen to up down before the next move
 
-N_PEN_UP_POS = 50      # Default pen-up position
-N_PEN_DOWN_POS = 40      # Default pen-down position
+N_PEN_UP_POS = 60      # Default pen-up position
+N_PEN_DOWN_POS = 20      # Default pen-down position
 
 N_SERVOSPEED = 150			# Default pen-lift speed 
 N_DEFAULT_LAYER = 1			# Default inkscape layer
